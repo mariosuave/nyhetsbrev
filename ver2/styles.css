@@ -48,6 +48,7 @@ body {
 
 .logo img {
 	width: 250px;
+	margin-bottom: 0;
 }
 
 .header {
