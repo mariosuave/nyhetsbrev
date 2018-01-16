@@ -147,3 +147,10 @@ p.ingress {
 	color: #292827;
 }
 
+.pluss {
+	vertical-align: middle;
+	width: 19px;
+	height: 19px;
+	margin-top: -3px;
+	margin-right: 7px;
+}
