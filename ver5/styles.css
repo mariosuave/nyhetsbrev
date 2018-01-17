@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'GuardianEgyptianBlack';
-  src:  url('gfx/guardian-egyptian-black.woff') format('woff');
+  src: url('gfx/guardian-egyptian-black.woff') format('woff');
 }
 
 @font-face {
   font-family: 'GuardianSansBlack';
-  src:  url('gfx/guardian-sans-black.woff') format('woff');
+  src: url('gfx/guardian-sans-black.woff') format('woff');
 }
 
 /* ------------------------------------ */
@@ -16,7 +16,7 @@
 }
 
 body {
-	font-family: GuardianSansBlack, "Helvetica Neue", helvetica, arial, sans-serif;
+	font-family: "GuardianSansBlack", "Helvetica Neue", helvetica, arial, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	background-color: #eeede9;
@@ -112,7 +112,7 @@ img {
 }
 
 h1 {
-	font-family: GuardianSansBlack, "Helvetica Neue", helvetica, arial, sans-serif;
+	font-family: "GuardianSansBlack", "Helvetica Neue", helvetica, arial, sans-serif;
 	font-size: 26px;
 	font-weight: bold;
 	line-height: 1.1;
