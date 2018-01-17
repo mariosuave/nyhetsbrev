@@ -20,13 +20,11 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	background-color: #eeede9;
-	/*background-color: #ffffff;*/
 	padding: 0;
 	margin: 0;
 }
 
 #mainWrapper {
-	/*background-color: grey;*/
 	max-width: 510px;
 	margin-right: auto;
 	margin-left: auto;
@@ -65,7 +63,6 @@ body {
 
 .introText {
 	color: #292827;
-	/*background-color: #ffffff;*/
 	border-bottom: solid 1px #d6d5d1;
 	padding: 0 4% 16px 4%;
 	margin-bottom: 36px;
@@ -73,7 +70,6 @@ body {
 
 .outroText {
 	color: #292827;
-	/*background-color: #ffffff;*/
 	border-top: solid 1px #d6d5d1;
 	padding: 16px 4%;
 	margin-top: 36px;
@@ -81,11 +77,7 @@ body {
 
 .article {
 	background-color: #ffffff;
-	/*border-top: solid 1px #f1f0ec;*/
-	/*border-right: solid 1px #f1f0ec;*/
 	border-bottom: solid 1px #e7e6e2;
-	/*border-left: solid 1px #f1f0ec;*/
-	/*border-radius: 5px;*/
 	margin-right: 4%;
 	margin-left: 4%;
 }
@@ -103,13 +95,11 @@ body {
 /* ------------------------------------ */
 
 p.vignett {
-	/*background-color: red;*/
 	font-family: "Helvetica Neue", helvetica, arial, sans-serif;
 	font-size: 13px;
 	font-weight: bold;
 	text-transform: uppercase;
-	/*color: #949391;*/
-	color: #292827;
+	color: #0c59a0;
 	border-bottom: solid 1px #eeede9;
 	padding: 6px 14px;
 	margin: 0;
@@ -151,7 +141,6 @@ p.ingress {
 
 .introText a, .outroText a {
 	color: #0771d8;
-	/*color: #292827;*/
 }
 
 .footer a {
