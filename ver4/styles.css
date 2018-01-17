@@ -96,7 +96,7 @@ body {
 	text-align: center;
 	color: #ffffff;
 	background-color: #0c59a0;
-	padding: 16px 14px 40px 14px;
+	padding: 16px 14px 80px 14px;
 	margin-bottom: 0;
 }
 
@@ -152,6 +152,10 @@ p.ingress {
 .introText a, .outroText a {
 	color: #0771d8;
 	/*color: #292827;*/
+}
+
+.footer a {
+	color: #ffffff;
 }
 
 .pluss {
