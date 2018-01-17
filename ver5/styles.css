@@ -1,6 +1,8 @@
 @font-face {
   font-family: 'GuardianEgyptianBlack';
   src: url('gfx/guardian-egyptian-black.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
 }
 
 @font-face {
