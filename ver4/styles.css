@@ -144,15 +144,15 @@ p.ingress {
 
 .introText p, .outroText p {
 	font-family: "Helvetica Neue", helvetica, arial, sans-serif;
-	font-size: 17px;
+	font-size: 18px;
 	line-height: 1.4;
-	padding-right: 1%;
-	padding-left: 1%;
+	padding-right: 2%;
+	padding-left: 2%;
 }
 
 .introText a, .outroText a {
-	/*color: #0771d8;*/
-	color: #292827;
+	color: #0771d8;
+	/*color: #292827;*/
 }
 
 .pluss {
