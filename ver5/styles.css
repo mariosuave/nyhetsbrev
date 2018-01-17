@@ -6,6 +6,8 @@
 @font-face {
   font-family: 'GuardianSansBlack';
   src: url('gfx/guardian-sans-black.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
 }
 
 /* ------------------------------------ */
