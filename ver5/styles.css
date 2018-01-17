@@ -20,7 +20,7 @@
 }
 
 body {
-	font-family: "GuardianSansBlack", "Helvetica Neue", helvetica, arial, sans-serif;
+	font-family: GuardianSansBlack, "Helvetica Neue", helvetica, arial, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	background-color: #eeede9;
@@ -116,7 +116,7 @@ img {
 }
 
 h1 {
-	font-family: "GuardianSansBlack", "Helvetica Neue", helvetica, arial, sans-serif;
+	font-family: GuardianSansBlack, "Helvetica Neue", helvetica, arial, sans-serif;
 	font-size: 23px;
 	font-weight: bold;
 	line-height: 1.1;
