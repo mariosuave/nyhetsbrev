@@ -99,7 +99,7 @@ body {
 /* ------------------------------------ */
 
 p.vignett {
-	font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+	font-family: -apple-system, "Helvetica Neue", helvetica, arial, sans-serif;
 	font-size: 13px;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -126,7 +126,7 @@ h1 {
 }
 
 p.ingress {
-	font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+	font-family: -apple-system, "Helvetica Neue", helvetica, arial, sans-serif;
 	font-size: 17px;
 	font-weight: normal;
 	line-height: 1.2;
@@ -136,7 +136,7 @@ p.ingress {
 }
 
 .introText p, .outroText p {
-	font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+	font-family: -apple-system, "Helvetica Neue", helvetica, arial, sans-serif;
 	font-size: 18px;
 	line-height: 1.4;
 	padding-right: 2%;
